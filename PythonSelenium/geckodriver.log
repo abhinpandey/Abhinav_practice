@@ -1,0 +1,19 @@
+1609686107417	geckodriver	INFO	Listening on 127.0.0.1:56901
+1609686110497	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Abhinav\\AppData\\Local\\Temp\\rust_mozprofileNBKjpZ"
+JavaScript error: pmmeo4vrdsb.cfg, line 2: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609686112717	Marionette	INFO	Listening on port 56909
+1609686113362	geckodriver	INFO	Listening on 127.0.0.1:56931
+1609686116475	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Abhinav\\AppData\\Local\\Temp\\rust_mozprofileWlSmWS"
+JavaScript error: pmmeo4vrdsb.cfg, line 2: ReferenceError: Components is not defined
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609686118685	Marionette	INFO	Listening on port 56939
+1609686119162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609686134000	Marionette	INFO	Stopped listening on port 56939
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

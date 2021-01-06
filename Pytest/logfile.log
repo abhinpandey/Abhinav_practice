@@ -1,0 +1,4 @@
+2021-01-06 12:50:47,723 :INFO :Pytest.test_logging :Information statement
+2021-01-06 12:50:47,723 :WARNING :Pytest.test_logging :Something is in waning mode
+2021-01-06 12:50:47,724 :ERROR :Pytest.test_logging :A major error has happened
+2021-01-06 12:50:47,724 :CRITICAL :Pytest.test_logging :critical issue
